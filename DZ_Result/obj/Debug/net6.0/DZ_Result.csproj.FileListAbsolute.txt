@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\bin\Debug\net6.0\DZ_Result.exe
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\bin\Debug\net6.0\DZ_Result.deps.json
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\bin\Debug\net6.0\DZ_Result.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\bin\Debug\net6.0\DZ_Result.dll
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\bin\Debug\net6.0\DZ_Result.pdb
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\obj\Debug\net6.0\DZ_Result.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\obj\Debug\net6.0\DZ_Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\obj\Debug\net6.0\DZ_Result.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\obj\Debug\net6.0\DZ_Result.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\obj\Debug\net6.0\DZ_Result.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\obj\Debug\net6.0\DZ_Result.dll
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\obj\Debug\net6.0\refint\DZ_Result.dll
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\obj\Debug\net6.0\DZ_Result.pdb
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\obj\Debug\net6.0\DZ_Result.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Result_DZ\DZ_Result\obj\Debug\net6.0\ref\DZ_Result.dll
